@@ -3,15 +3,15 @@
 ## Download
 
 ### macOS
-- [pmkar_0.5.1_universal.dmg](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.1_universal.dmg)
+- [pmkar_0.5.2_universal.dmg](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.2_universal.dmg)
 - [pmkar.app.tar.gz](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar.app.tar.gz) (for updater)
 
 ### Linux
-- [pmkar_0.5.1_amd64.deb](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.1_amd64.deb) (Debian/Ubuntu)
+- [pmkar_0.5.2_amd64.deb](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.2_amd64.deb) (Debian/Ubuntu)
 
 ### Windows
-- [pmkar_0.5.1_x64-setup.exe](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.1_x64-setup.exe) (NSIS installer)
-- [pmkar_0.5.1_x64_en-US.msi](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.1_x64_en-US.msi) (MSI installer)
+- [pmkar_0.5.2_x64-setup.exe](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.2_x64-setup.exe) (NSIS installer)
+- [pmkar_0.5.2_x64_en-US.msi](https://github.com/Mimo01/pmkar-releases/releases/latest/download/pmkar_0.5.2_x64_en-US.msi) (MSI installer)
 
 ---
-_Latest release: v0.5.1_
+_Latest release: v0.5.2_
